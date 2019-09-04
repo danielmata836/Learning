@@ -1,2 +1,1 @@
-wtf
-I´m not understanding a shit about branching.
+It looks like I am finally starting to understand how it works.
